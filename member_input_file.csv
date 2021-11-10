@@ -1,0 +1,5 @@
+member,E,I,A,i_node,j_node,,node_num,X,Y,R,X1,Y1,,load_type,member,direction,magnitude,start_pos,length
+1,29000,7.233,3.174,1,2,,1,1,1,1,0,0,,point_load,1,X,5,120,0
+2,29000,7.233,3.174,2,3,,2,0,0,0,0,120,,point_load,2,Y,-20,60,0
+3,29000,7.233,3.174,3,4,,3,0,0,0,180,120,,,,,,,
+,,,,,,,4,1,1,1,180,-120,,,,,,,
